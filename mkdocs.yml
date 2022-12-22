@@ -1,0 +1,10 @@
+site_name: Manual
+theme: readthedocs
+nav:
+    - Home: index.md
+    - 'User Guide':
+        - 'Styling your docs': 'how.md'
+        
+    - About:
+        - 'License': 'guide/tree.md'
+        - 'Release Notes': 'guide/theme.md'
